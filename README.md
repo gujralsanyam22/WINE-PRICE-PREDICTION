@@ -116,9 +116,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw=true" align="right" height="75" width="75">](https://streamlit.io)
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)
+[<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw="true"   width="275">](https://streamlit.io)
 
-> The fastest way to build **Awesome Tools and Apps**! Powered by **Python**!
+
 
  [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
 
