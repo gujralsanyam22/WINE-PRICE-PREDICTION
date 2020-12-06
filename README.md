@@ -117,7 +117,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)
-[<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw="true"   width="275">](https://streamlit.io)
+
+[<img src="https://github.com/MarcSkovMadsen/awesome-streamlit/blob/master/assets/streamlit-logo.png?raw=true"  width="275">](https://streamlit.io)
+
+
 
 
 
