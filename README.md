@@ -1,4 +1,4 @@
-# WINE-PRICE-PREDICTION
+# WINE-PRICE-PREDICTION APP  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gujralsanyam22/wine-price-prediction-app/wine.py)
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
